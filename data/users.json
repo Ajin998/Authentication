@@ -1,0 +1,104 @@
+[
+  {
+    "userID": "5jfvbsfxkiko7bn9",
+    "email": "Ajin@xyz.com",
+    "password": "$2b$10$UQNTtG2gLkP/E.U7UKur.OkjhrrfZdU9iP6ECWeHEzbcTKBL0UVHq",
+    "createdOn": "Sat Dec 12 2020 01:05:39 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvbskokikoh3no",
+    "email": "John@yahoo.com",
+    "password": "$2b$10$7xTcReKEnhegV.ysk50qSe.9jlgpH3dVflotcDA.wsxgHN8XzMmhK",
+    "createdOn": "Sat Dec 12 2020 01:13:16 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvbp18kjleyy8q",
+    "email": "Abc@yahoo.com",
+    "password": "$2b$10$bqOtnhjBQ0nl6ugrawDDUOySriGc3ocooaBxhE/qO6Pnl1AmKLrru",
+    "createdOn": "Wed Jan 06 2021 18:14:41 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvb7kfkjojvbf3",
+    "email": "abc@gmail.com",
+    "password": "$2b$10$X0DndMmJ0w5VqojqcdYK5uytLxqA3WGQRXH5pQCoSCLNH8HGBbJRi",
+    "createdOn": "Fri Jan 08 2021 22:55:08 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvbu1ykjokxbtd",
+    "email": "ab@gmail.com",
+    "password": "$2b$10$CRPnZ5huiVgCGpwlvVUBH.gUG.insR3eu/e8ZQ7AROS3UAcJj619O",
+    "createdOn": "Fri Jan 08 2021 23:24:41 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvbv8fkjol9omx",
+    "email": "abc123@gmail.com",
+    "password": "$2b$10$B./1aoRIthyhCLQ666TzxOmUqU6/gOLkNc/kOvV2zQVXRETUwm7eu",
+    "createdOn": "Fri Jan 08 2021 23:34:18 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvbvszkjolmypd",
+    "email": "abc1234@gmail.com",
+    "password": "$2b$10$YCT0wWt0qd58.SUi7pxiVeS5.zi7a5yiWW0nM98.NcaBk8ISrzVPK",
+    "createdOn": "Fri Jan 08 2021 23:44:37 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvbwbxkjolviur",
+    "email": "abc12345@gmail.com",
+    "password": "$2b$10$aeh4NRF.hV2BpUH627Zc5eVHFc.2k5LgqS2wPKSSEgwNMBZjAACb.",
+    "createdOn": "Fri Jan 08 2021 23:51:17 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvbwndkjoofj7d",
+    "email": "hulk@gmail.com",
+    "password": "$2b$10$FqUa8rb1cjAX20GUIowgE.jTmhMozCueVloSMafvqwelfLA/elCya",
+    "createdOn": "Sat Jan 09 2021 01:02:50 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvb3lkkjpfjrko",
+    "email": "bat@gmail.com",
+    "password": "$2b$10$ShkNEqZ9FDSkbfo5PVTl9u5W4LSJuhkB.ehHsPuhkGksak.G3u2p.",
+    "createdOn": "Sat Jan 09 2021 13:41:57 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvb6unkjpfzync",
+    "email": "cat@gmail.com",
+    "password": "$2b$10$hgrFRwTm1EI4H.0grOXe/erpYs6ITQYbRTTbnIvLUOKaZDc.GgHra",
+    "createdOn": "Sat Jan 09 2021 13:54:32 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvb6w9kjpg6qzs",
+    "email": "cat123@gmail.com",
+    "password": "$2b$10$a69L.Wca9zeA5FfcSIITou.eXigYkievUmfJn7SBKNsih5bEwGNuu",
+    "createdOn": "Sat Jan 09 2021 13:59:49 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvb71hkjpgqggo",
+    "email": "ajin@xyz.com",
+    "password": "$2b$10$j4dFQLX8A7EvmSkxDmG/a.vPMxlcdKjeK9.fnhFBDPqvMHqzlVUiK",
+    "createdOn": "Sat Jan 09 2021 14:15:08 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvb7rkkjpgskbx",
+    "email": "ant@abc.com",
+    "password": "$2b$10$nWuoEk2kU8VVYAF2lzRmVuZe6pOZdRX78qpVJAMbbysXpgmK5G3Wq",
+    "createdOn": "Sat Jan 09 2021 14:16:47 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvb7vikjph2jhi",
+    "email": "sup@gmail.com",
+    "password": "$2b$10$mhQbmuGWhwQc4WZvxCpE0.S9XbEoOpFE.RO7ZH14Gx/wS7cx/FN6i",
+    "createdOn": "Sat Jan 09 2021 14:24:32 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvb89tkjph3off",
+    "email": "sup1@gmail.com",
+    "password": "$2b$10$3NW48h99jQL6DhipU4sg6OrmCO0XlcVnopRad2r4QL.KEfM4G3So6",
+    "createdOn": "Sat Jan 09 2021 14:25:25 GMT+0530 (India Standard Time)"
+  },
+  {
+    "userID": "5jfvb8c0kjph5c1p",
+    "email": "sup2@gmail.com",
+    "password": "$2b$10$Z4kwR5.ZD/3Fkl4y6wMf.ueDFy0QjHL5YEo9yzLMBJ8qSHvQ22QTG",
+    "createdOn": "Sat Jan 09 2021 14:26:43 GMT+0530 (India Standard Time)"
+  }
+]
